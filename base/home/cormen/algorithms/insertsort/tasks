@@ -1,0 +1,36 @@
+1. Write insert sort
+2. show invariants for [31, 41, 59, 26, 41, 58]
+
+[31, 41]
+[31 41 59]
+[31 ->  41 -> 59 -> 26]
+ ^--<----<----<--<---
+[26 31 41 59 -> 41]
+           ^<--<--
+[26 31 42 52 59 -> 58]
+              ^<--<--
+[26 31 42 53 58 59]
+
+3.
+
+liniar search:
+
+
+result = Nill
+for i in range(0, len(array) + 1)
+    if( array[i] == v):
+        result = array[i]
+        break
+return result
+
+
+4.
+
+first
+second
+third
+
+for i in range(0, len(first)):
+
+
+
